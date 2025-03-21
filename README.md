@@ -4,7 +4,7 @@
 Tôi là một **lập trình viên** đam mê công nghệ, luôn khao khát học hỏi và cải thiện kỹ năng. Với niềm đam mê sáng tạo, tôi mong muốn tạo ra các giải pháp phần mềm chất lượng, góp phần giải quyết những vấn đề thực tế trong cuộc sống. Mục tiêu nghề nghiệp của tôi là không ngừng phát triển và mở rộng tầm ảnh hưởng trong lĩnh vực lập trình.
 
 ## Kỹ năng & Công nghệ
-- **Ngôn ngữ lập trình:** JavaScript, Python, Java
+- **Ngôn ngữ lập trình:** JavaScript, Java, C++
 - **Frameworks & Tools:** React, NextJs, Node.js, ExpressJs, Redux, Docker, Git
 - **Quản lý VPS và Hosting:** Cài đặt và cấu hình VPS, quản lý máy chủ ảo
 - **Thành tích & chứng chỉ:**  

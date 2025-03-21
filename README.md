@@ -6,6 +6,7 @@ Tôi là một **lập trình viên** đam mê công nghệ, luôn khao khát h�
 ## Kỹ năng & Công nghệ
 - **Ngôn ngữ lập trình:** JavaScript, Python, Java
 - **Frameworks & Tools:** React, NextJs, Node.js, ExpressJs, Redux, Docker, Git
+- **Quản lý VPS và Hosting:** Cài đặt và cấu hình VPS, quản lý máy chủ ảo
 - **Thành tích & chứng chỉ:**  
   - Hiện đang theo học tại trường **Đại học Công Nghệ - Đại Học Quốc Gia Hà Nội**
 

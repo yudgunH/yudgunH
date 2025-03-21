@@ -24,7 +24,7 @@ Tôi là một **lập trình viên** đam mê công nghệ, luôn khao khát h�
 ## Liên hệ & Kết nối
 - **Email:** ndhung0901@gmail.com  
 - **LinkedIn:** [Nguyễn Duy Hưng](https://www.linkedin.com/in/h%C6%B0ng-nguy%E1%BB%85n-duy-685477295/)  
-- **Facebook:** [@yourhandle](https://www.facebook.com/profile.php?id=100045370126663)  
+- **Facebook:** [Nguyễn Duy Hưng](https://www.facebook.com/profile.php?id=100045370126663)  
 
 Hãy kết nối với tôi để cùng trao đổi về công nghệ và khám phá những cơ hội hợp tác mới!
 

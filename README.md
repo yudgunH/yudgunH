@@ -18,8 +18,8 @@ Tôi là một **lập trình viên** đam mê công nghệ, luôn khao khát h�
   Trang web thương mại điện tử demo sử dụng **NextJs** và **Redux**, cho phép người dùng trải nghiệm quy trình mua sắm trực tuyến mượt mà.
 
 ## GitHub Stats & Contributions
-![Số liệu thống kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+![Số liệu thống kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=yudgunH&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yudgunH)
 
 ## Liên hệ & Kết nối
 - **Email:** ndhung0901@gmail.com  

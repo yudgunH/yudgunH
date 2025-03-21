@@ -11,11 +11,39 @@ Tôi là một **lập trình viên** đam mê công nghệ, luôn khao khát h�
   - Hiện đang theo học tại trường **Đại học Công Nghệ - Đại Học Quốc Gia Hà Nội**
 
 ## Dự án nổi bật
-- [**Dự án Quản lý Công việc**](https://github.com/yourusername/quan-ly-cong-viec)  
-  Ứng dụng được xây dựng bằng **React** và **Node.js**, giúp người dùng theo dõi và quản lý các nhiệm vụ hàng ngày một cách hiệu quả.
-  
-- [**Dự án E-commerce Demo**](https://github.com/yourusername/ecommerce-demo)  
-  Trang web thương mại điện tử demo sử dụng **NextJs** và **Redux**, cho phép người dùng trải nghiệm quy trình mua sắm trực tuyến mượt mà.
+## Dự Án Cá Nhân
+
+### 1. AllDrama - Nền tảng xem phim trực tuyến
+**Công nghệ sử dụng:**
+- **Frontend:** Next.js, TypeScript, Tailwind CSS, Framer Motion, Shadcn UI
+- **Backend:** Node.js, Express, PostgreSQL, Sequelize, Redis, JWT
+- **Lưu trữ:** AWS S3, Cloudflare R2
+- **CDN:** AWS CloudFront, Cloudflare
+- **Containerization:** Docker
+
+**Tính năng nổi bật:**
+- Streaming video chất lượng cao (HLS)
+- Tìm kiếm và lọc phim
+- Quản lý danh sách yêu thích và lịch sử xem phim
+- Xác thực bảo mật với JWT và CSRF
+- Giao diện người dùng đáp ứng trên mọi thiết bị
+
+**Thống kê người dùng và lượt truy cập:**
+- **Số lượng người dùng:** Khoảng 4,000 người dùng, 72 người đăng ký
+- **Lượt truy cập:** Khoảng 105,000 lượt truy cập (dựa vào Google Analytics)
+
+**Link Website:** [alldrama.net](https://www.alldrama.net)  
+---
+### 2. Qairline - Website đặt vé máy bay
+**Công nghệ sử dụng:**
+- **Frontend:** Next.js, TypeScript, Tailwind CSS, Shadcn UI
+
+**Vai trò của tôi:**
+- Thiết kế và phát triển giao diện người dùng với Next.js, TypeScript, Tailwind CSS, Shadcn UI
+- Tạo các tính năng tương tác như tìm kiếm chuyến bay, lựa chọn vé, hiển thị kết quả tìm kiếm, thanh toán.
+- Đảm bảo giao diện thân thiện với người dùng, kỹ thuật responsive để website hoạt động tốt trên mọi thiết bị.
+
+**Link Website:** [qairline.website](https://www.qairline.website)  
 
 ## GitHub Stats & Contributions
 ![Số liệu thống kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=yudgunH&show_icons=true)  
